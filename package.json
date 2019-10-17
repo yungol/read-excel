@@ -1,0 +1,12 @@
+{
+  "name": "ejemplo-excel",
+  "version": "1.0.0",
+  "description": "server para leer excel",
+  "main": "server.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "xlsx": "0.15.1"
+  }
+}
