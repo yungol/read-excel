@@ -7,6 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "4.17.1",
-    "xlsx": "0.15.1"
+    "xlsx": "0.17.0"
   }
 }
